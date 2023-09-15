@@ -8,7 +8,8 @@ This is implemented using an Android AR application to find hidden clues in imag
 
 1. The implementation of the application starts with the installation of the apk on an Android device.
 2. Pan over the initial marker, (in this case the introductory CAMS image) to find the initial clue, and use these clues to navigate to the following markers.
-3. Complete all of the clues in the **hint hunt** to find the hidden video, at the end.  
+3. Complete all of the clues in the **hint hunt** to find the hidden video, at the end.
+4. Once this has been completed the user would've gained knowledge on lab location within the CAMS building.
 
 # 
 
@@ -29,3 +30,8 @@ The proposed images are to be setup in the UWC CAMS lab, the assigned areas as d
     
 ![Image4](https://github.com/keanuUwcRepos/CSC738_cybersecurity_assignment/assets/82175524/6b5ad74f-60e5-44a8-9c10-6086226e4eab)
 
+#
+
+## Code Creation and Implementation
+
+The **hint hunt** AR application was created with a combination of Unity and Vuforia. The initial image markers were uploaded. The plane images were then added to act as clues to the markers. These hidden images are casted over the AR markers once the camera is panned over them.
