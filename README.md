@@ -102,3 +102,4 @@ Moreover, Vuforia is configured for the AR application using the video found at 
     6. OpenXR Plugin
 35. Under dropdown ‘Packages - Unity’, Select dropdown ’XR Plugin Management’.
 36. Lastly, select currently installed version 4.1.0 under 'Packages - Unity'. [CITED: https://www.youtube.com/watch?v=gpaq5bAjya8].
+[Go to Top](#top)
