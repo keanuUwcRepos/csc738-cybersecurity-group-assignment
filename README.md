@@ -1,6 +1,7 @@
+[](#top)
 # CSC738_cybersecurity_assignment
 
-## Contents
+## Contents [Go to Top](#top)
 [Introduction](#introduction)
 
 [How to use](#how-to-use)
@@ -9,13 +10,13 @@
 
 [Code configuration](#code-configuration)
 
-## Introduction
+## Introduction [Go to Top](#top)
 
 The android application presented here is a **hint hunt** of the UWC CAMS building. The concept revolves around the familiarization of the building, by using hints to navigate the labs and open areas. 
 
 This is implemented using an Android AR application to find hidden clues in images posted around the building. 
 
-## HOW TO USE:
+## HOW TO USE: [Go to Top](#top)
 
 1. The implementation of the application starts with the installation of the apk on an Android device.
 2. Pan over the initial marker, (in this case the introductory CAMS image) to find the initial clue, and use these clues to navigate to the following markers.
@@ -43,11 +44,11 @@ The proposed images are to be setup in the UWC CAMS lab, the assigned areas as d
 
 #
 
-## Code Creation and Implementation
+## Code Creation and Implementation [Go to Top](#top)
 
 The **hint hunt** AR application was created with a combination of Unity and Vuforia. The initial image markers were uploaded. The plane images were then added to act as clues to the markers. These hidden images are casted over the AR markers once the camera is panned over them.
 
-## Code configuration
+## Code configuration [Go to Top](#top)
 The AR application is configured with Unity IDE and Vuforia. The configuration for Unity is described in the 36 steps found below: 
 
 Additionally the following Unity configuration is explained in the first 11 minutes of the video found at link - https://www.youtube.com/watch?v=gpaq5bAjya8.
