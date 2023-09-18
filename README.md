@@ -30,11 +30,19 @@ This is implemented using an Android AR application to find hidden clues in imag
 The proposed images are to be setup in the UWC CAMS lab, the assigned areas as described below:
   - Image1.png: CAMS introductory marker, at the entrance of the CAMS building.
 
+  ![Image1.png](Image1.png)
+
   - Image2.png: Level 2 of CAMS building next to the large Window.
 
+  ![Image2.jpg](Image2.jpg)
+
   - Image3.png: On the door of the Sunlab.
+  
+  ![Image3.jpg](Image3.jpg)
 
   - Image4.png: On the door of the AR/VR lab
+
+  ![Image4.jpg](Image4.jpg)
 
 #
 
