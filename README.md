@@ -29,20 +29,12 @@ This is implemented using an Android AR application to find hidden clues in imag
 
 The proposed images are to be setup in the UWC CAMS lab, the assigned areas as described below:
   - Image1.png: CAMS introductory marker, at the entrance of the CAMS building.
-    
-![Image1](https://github.com/keanuUwcRepos/CSC738_cybersecurity_assignment/assets/82175524/a93df1cf-664e-4035-9eb2-5da0dcb94bfe)
 
   - Image2.png: Level 2 of CAMS building next to the large Window.
 
-![Image2 png](https://github.com/keanuUwcRepos/CSC738_cybersecurity_assignment/assets/82175524/8f4ffad2-1838-4aee-ac42-258865e26d80)
-
   - Image3.png: On the door of the Sunlab.
 
-![Image3](https://github.com/keanuUwcRepos/CSC738_cybersecurity_assignment/assets/82175524/0a9319b4-ee70-42b8-bed5-f882a1034109)
-
   - Image4.png: On the door of the AR/VR lab
-    
-![Image4](https://github.com/keanuUwcRepos/CSC738_cybersecurity_assignment/assets/82175524/6b5ad74f-60e5-44a8-9c10-6086226e4eab)
 
 #
 
