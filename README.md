@@ -1,6 +1,6 @@
 [](#top)
 # CSC738_cybersecurity_assignment
-# Task 1 - Stegonography
+# Task 1 - Steganography
 
 ## Contents
 [Introduction](#introduction)
