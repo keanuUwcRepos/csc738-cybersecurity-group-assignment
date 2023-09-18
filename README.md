@@ -18,7 +18,7 @@ The android application presented here is a **hint hunt** of the UWC CAMS buildi
 
 This is implemented using an Android AR application to find hidden clues in images posted around the building. 
 
-## How to use: 
+## How to use
 [Go to Top](#top)
 
 1. The implementation of the application starts with the installation of the apk on an Android device.
